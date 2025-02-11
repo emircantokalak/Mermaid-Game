@@ -12,9 +12,9 @@ ty, points, and actions.
 Quiz CSV: Stores quiz questions, answer options, and correct answers.
 ## How to Run
 Clone the repository:
-git clone https://github.com/your-username/mermaid-game.git
+"git clone https://github.com/your-username/mermaid-game.git"
 Navigate to the project directory:
-cd mermaid-game
+"cd mermaid-game"
 Compile and run the project using your IDE or command line.
 Ensure that the CSV files are properly set up in the project directory.
 Run the game:
